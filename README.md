@@ -71,7 +71,3 @@ Embedded-Microwave-Oven-PIC/
 3. Build the project using **XC8 compiler**.
 4. Load the generated HEX file into **PICSimLab**.
 5. Run the simulation and interact using the keypad.
-
-
-Just tell me 👍
-
