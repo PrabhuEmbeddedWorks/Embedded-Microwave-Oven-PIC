@@ -1,5 +1,9 @@
 # Microwave Oven Simulation using PIC16F877A
 
+# Project Demonstration Video
+A complete working simulation of this project is available on YouTube:
+🔗 [https://youtu.be/iB5f18V4X7Y](https://youtu.be/iB5f18V4X7Y)
+
 # Overview
 This project implements a **Microwave Oven Simulation** using the **PIC16F877A microcontroller**, programmed in **Embedded C**. The system accurately models the behavior of a real-world microwave oven by supporting multiple cooking modes, real-time countdown, user interaction through a keypad, and visual feedback via an LCD.
 The project is developed using **MPLAB X IDE** and verified through **PICSimLab** simulation.
@@ -47,11 +51,6 @@ Starts cooking immediately with a default time of **30 seconds**, and each addit
 * MPLAB X IDE
 * XC8 Compiler
 * PICSimLab
-
-# Project Demonstration Video
-A complete working simulation of this project is available on YouTube:
-🔗 [https://youtu.be/iB5f18V4X7Y](https://youtu.be/iB5f18V4X7Y)
-
 
 # Repository Structure
 ```
